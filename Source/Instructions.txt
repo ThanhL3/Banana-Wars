@@ -1,0 +1,4 @@
+The commands to go around is Intro, Menu, Shop, Army, and Conquest
+
+In Shop, you can type in Civilian, Private, Mediocre, Super, or Jedi to purchase the soldier 
+
